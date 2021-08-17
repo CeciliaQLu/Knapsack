@@ -1,0 +1,17 @@
+
+0-N Knapsack (graph search):
+
+Program runs properly.
+
+Here is an example output:
+
+
+Item0: Value = 15 Weight = 7 Number = 13 
+Item1: Value = 12 Weight = 6 Number = 13 
+Item2: Value = 8 Weight = 2 Number = 24 
+Weight capacity: 50
+0024:  Weight = 48 Value = 192
+Number of each item (same order as above): [ 0 0 24 ]
+Barometer: 4330
+
+

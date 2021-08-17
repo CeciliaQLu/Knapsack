@@ -1,0 +1,40 @@
+
+0-N Knapsack (Dynamic programming):
+
+I solved this problem in two ways.
+
+Program runs properly in both ways.
+
+Here is an example output:
+
+1. 
+
+Item0: Value = 15 Weight = 7 Number = 1 
+Item0: Value = 15 Weight = 7 Number = 1 
+Item1: Value = 12 Weight = 6 Number = 1 
+Item2: Value = 8 Weight = 2 Number = 1 
+Item2: Value = 8 Weight = 2 Number = 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 15 
+0 0 0 0 0 0 0 15 
+0 0 0 0 0 0 12 15 
+0 0 8 8 8 8 12 15 
+0 0 8 8 16 16 16 16 
+Selected Items: [ Item2 Item2 ]
+Weight capacity: 7
+Barometer: 35
+
+
+2.
+
+Another way of solving the 0-N knapsack 
+problem using dynamic programming:
+
+Value:  [ 15,12,8,]
+Weight:  [ 7,6,2,]
+Size:  [ 13,13,24,]
+Weight capacity = 50
+Best Value = 192
+Barometer = 1115
+
+

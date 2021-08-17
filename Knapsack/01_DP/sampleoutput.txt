@@ -1,0 +1,29 @@
+
+0-1 Knapsack (Dynamic programming):
+
+Program runs properly.
+
+Here is an example output:
+
+
+Item 0: Value = 3, Weight = 6 
+Item 1: Value = 15, Weight = 7 
+Item 2: Value = 12, Weight = 7 
+Item 3: Value = 8, Weight = 2 
+Item 4: Value = 8, Weight = 2 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 3 
+0 0 0 0 0 0 3 
+0 0 0 0 0 0 3 
+0 0 8 8 8 8 8 
+0 0 8 8 16 16 16 
+Selected Items in the bag: 
+Value: 16
+Selected Items: [ 3 4 ]
+=======================
+n = 5
+Weight capacity = 6
+Barometer 30
+
+
+

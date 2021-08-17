@@ -1,0 +1,19 @@
+
+0-N Knapsack (Brute Force):
+
+Program runs properly.
+
+Here is an example output:
+
+
+Item0: Value = 15 Weight = 7 Number = 1 
+Item0: Value = 15 Weight = 7 Number = 1 
+Item1: Value = 12 Weight = 6 Number = 1 
+Item2: Value = 8 Weight = 2 Number = 1 
+Item2: Value = 8 Weight = 2 Number = 1 
+given Weight capacity: 7
+Select Items: Item2 Item2  | Total Weight: 4  | Total Value: 16 
+Barometer 320
+
+
+
